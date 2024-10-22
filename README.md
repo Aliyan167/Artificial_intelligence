@@ -4,12 +4,3 @@
   </a>
 </p>
 <hr>
-
-# Portfolio Project
-
-## Technology Stack
-
-- **Backend:** Django, Django Rest Framework (DRF)
-- **Storage:** Local file storage for media files and output videos
-
-
